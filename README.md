@@ -1,2 +1,2 @@
 # binance_assessment
-Repo for Binanc Takehome Assessment
+Repo for Binance Takehome Assessment
